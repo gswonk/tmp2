@@ -1,0 +1,9 @@
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\listLectures\bin\Debug\listLectures.exe
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\listLectures\bin\Debug\listLectures.pdb
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\listLectures\bin\Debug\libCoursera.dll
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\listLectures\bin\Debug\libCoursera.pdb
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\listLectures\obj\Debug\listLectures.csprojResolveAssemblyReference.cache
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\listLectures\obj\Debug\listLectures.exe
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\listLectures\obj\Debug\listLectures.pdb
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\listLectures\bin\Debug\Newtonsoft.Json.dll
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\listLectures\bin\Debug\Newtonsoft.Json.xml

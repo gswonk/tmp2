@@ -1,0 +1,7 @@
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\restAPI\bin\Debug\restAPI.exe
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\restAPI\bin\Debug\restAPI.pdb
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\restAPI\obj\Debug\restAPI.exe
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\restAPI\obj\Debug\restAPI.pdb
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\restAPI\obj\Debug\restAPI.csprojResolveAssemblyReference.cache
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\restAPI\bin\Debug\Newtonsoft.Json.dll
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\restAPI\bin\Debug\Newtonsoft.Json.xml

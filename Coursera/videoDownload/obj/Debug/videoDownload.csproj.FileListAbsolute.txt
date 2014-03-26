@@ -1,0 +1,9 @@
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\videoDownload\bin\Debug\videoDownload.exe
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\videoDownload\bin\Debug\videoDownload.pdb
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\videoDownload\bin\Debug\libCoursera.dll
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\videoDownload\bin\Debug\libCoursera.pdb
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\videoDownload\obj\Debug\videoDownload.exe
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\videoDownload\obj\Debug\videoDownload.pdb
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\videoDownload\obj\Debug\videoDownload.csprojResolveAssemblyReference.cache
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\videoDownload\bin\Debug\Newtonsoft.Json.dll
+C:\sandbox\swonk\gswonk\Code\DotNet\Apps\Coursera\videoDownload\bin\Debug\Newtonsoft.Json.xml
